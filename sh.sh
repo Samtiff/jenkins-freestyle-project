@@ -1,2 +1,2 @@
-sleep 600
+sleep 60
 echo 'Hello world!'
